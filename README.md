@@ -8,3 +8,6 @@ CascadeLayer, Container-Queries
 JS
 hoisting, TDZ
 copy by value, copy by reference
+
+#2025 03월 31일
+shallowCopy, deepCopy
